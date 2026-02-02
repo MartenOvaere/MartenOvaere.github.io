@@ -60,7 +60,7 @@ format:
   </div>
 
   <div class="col-md-4 text-center">
-    <img src="assets/profile.svg" class="img-fluid" alt="Profile placeholder" style="max-width: 280px; border-radius: 1.25rem;">
+    <img src="assets/profile.jpg" style="max-width:240px;border-radius:16px;">
   </div>
 </div>
 :::
