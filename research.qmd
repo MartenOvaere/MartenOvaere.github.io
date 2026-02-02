@@ -1,8 +1,8 @@
 ## Working papers
 
-- **Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain** (with Melita Van Steenberghe) — *Revise & resubmit at* *Journal of the Association of Environmental and Resource Economists*. [[working paper](https://ideas.repec.org/p/???)]  
-- **Mind the Peak: The Role of Peak Demand Charges and Real-Time Pricing in Residential Electricity Flexibility** (with Mark Vergouwen). [[working paper](https://econpapers.repec.org/paper/???)]  
-  - Media coverage: [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/) · [De Standaard](https://www.standaard.be/) · [De Tijd](https://www.tijd.be/)
+- **Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain** (with Melita Van Steenberghe) — *Revise & resubmit at* *Journal of the Association of Environmental and Resource Economists*. [[working paper](https://ideas.repec.org/p/rug/rugwps/25-1124.html)]  
+- **Mind the Peak: The Role of Peak Demand Charges and Real-Time Pricing in Residential Electricity Flexibility** (with Mark Vergouwen). [[working paper](https://econpapers.repec.org/paper/rugrugwps/25_2f1115.htm)]  
+  - Media coverage: [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/publicaties/rapp-2025-11) · [De Standaard](https://www.standaard.be/economie/capaciteitstarief-zet-gezinnen-aan-tot-gespreid-energieverbruik-maar-kleine-verbruikers-betalen-meer/74004416.html) · [De Tijd](https://www.tijd.be/ondernemen/milieu-energie/capaciteitstarief-doet-vooral-eigenaars-van-elektrische-wagen-stroomverbruik-spreiden/10613511.html)
 - **Emission trading and overlapping environmental support: installation-level evidence from the EU ETS** (with Klaas Mulier and Leo Stimpfle). [[working paper](https://www.nbb.be/)]
 - **Product Differentiation through Labels: Evidence from EU Energy Relabeling** (with Justus Böning, Maximilian Kaiser, Alexander Edeling and Siegfried Dewitte). [[working paper](https://papers.ssrn.com/)]
 - **Effects of Rooftop Solar on the Distribution Grid: Evidence from Connecticut** (with Kenneth Gillingham and Xingchi Shen).
