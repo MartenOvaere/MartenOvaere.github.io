@@ -1,7 +1,3 @@
----
-title: "Contact"
----
-
 **Department of Economics**, Ghent University  
 **Faculty of Economics and Business**  
 Tweekerkenstraat 2  
