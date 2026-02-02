@@ -1,0 +1,17 @@
+/* Custom theme tweaks layered on top of Bootstrap (cosmo). */
+
+$body-color: #1b1f23;
+$headings-font-weight: 650;
+$enable-rounded: true;
+
+$navbar-padding-y: 0.75rem;
+$navbar-dark-color: rgba(255,255,255,.9);
+$navbar-dark-hover-color: rgba(255,255,255,1);
+
+$card-border-radius: 1rem;
+$btn-border-radius: 999px;
+
+@import "bootstrap";
+
+/* Extra spacing on headings */
+h2, h3 { scroll-margin-top: 6rem; }

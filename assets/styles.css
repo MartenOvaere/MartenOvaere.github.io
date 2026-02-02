@@ -1,0 +1,71 @@
+/* Typography + layout polish */
+:root{
+  --mo-max-width: 1120px;
+}
+
+.page-columns .content{
+  max-width: var(--mo-max-width);
+}
+
+p, li{
+  line-height: 1.55;
+  font-size: 1.02rem;
+}
+
+.mo-hero{
+  padding: 1.4rem 1.4rem;
+  border-radius: 1.25rem;
+  border: 1px solid rgba(0,0,0,.08);
+  background: linear-gradient(135deg, rgba(13,110,253,.08), rgba(25,135,84,.06));
+}
+
+.mo-hero h1{
+  margin-bottom: .25rem;
+}
+
+.mo-muted{
+  color: rgba(0,0,0,.65);
+}
+
+.mo-chip{
+  display: inline-block;
+  padding: .25rem .6rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,.12);
+  background: rgba(255,255,255,.6);
+  margin: .2rem .2rem .2rem 0;
+  font-size: .9rem;
+}
+
+.mo-cardgrid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.mo-card{
+  border: 1px solid rgba(0,0,0,.10);
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+  background: #fff;
+}
+
+.mo-card h3{
+  font-size: 1.05rem;
+  margin-top: 0;
+}
+
+.mo-small{
+  font-size: .95rem;
+}
+
+.mo-list-tight li{
+  margin-bottom: .35rem;
+}
+
+.mo-section-note{
+  border-left: 4px solid rgba(13,110,253,.35);
+  padding-left: .9rem;
+  margin: 1rem 0;
+}
