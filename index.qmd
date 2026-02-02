@@ -1,0 +1,70 @@
+---
+title: "Home"
+page-layout: full
+---
+
+::: {.mo-hero}
+<div class="row align-items-center g-4">
+  <div class="col-md-8">
+    <h1 class="title">Marten Ovaere</h1>
+    <div class="mo-muted mo-small">
+      Assistant Professor (Docent), Department of Economics, Ghent University
+      <span class="mx-2">•</span>
+      Fellow, Yale Center for Business and the Environment
+    </div>
+
+    <p class="mt-3">
+      Welcome! I am an assistant professor (docent) at the
+      <a href="https://www.ugent.be/">Department of Economics</a> of Ghent University.
+      My research interests lie in energy and environmental economics, with a focus on the energy transition,
+      electricity markets, electricity demand flexibility (electric vehicles and heat pumps), electric grids,
+      and renewable energy (solar and wind), using empirical analysis of public and private data.
+    </p>
+
+    <div class="mt-2">
+      <span class="mo-chip">Electricity markets</span>
+      <span class="mo-chip">Demand flexibility</span>
+      <span class="mo-chip">EVs & heat pumps</span>
+      <span class="mo-chip">Distribution grids</span>
+      <span class="mo-chip">Renewables</span>
+      <span class="mo-chip">Policy evaluation</span>
+    </div>
+
+    <div class="mt-3">
+      <a class="btn btn-primary me-2" href="cv.qmd">CV</a>
+      <a class="btn btn-outline-primary me-2" href="research.qmd">Research</a>
+      <a class="btn btn-outline-secondary" href="contact.qmd">Contact</a>
+    </div>
+
+    <div class="mt-3 mo-small">
+      Links:
+      <a href="https://drive.google.com">Curriculum Vitae (PDF)</a> ·
+      <a href="https://scholar.google.com/citations?user=">Google Scholar</a> ·
+      <a href="https://github.com/MartenOvaere">GitHub</a>
+    </div>
+  </div>
+
+  <div class="col-md-4 text-center">
+    <img src="assets/profile.svg" class="img-fluid" alt="Profile placeholder" style="max-width: 280px; border-radius: 1.25rem;">
+  </div>
+</div>
+:::
+
+## Grants
+
+My research is currently supported by the following grants:
+
+- **BE-WISE** — Strengthening the competitiveness of the Belgian offshore wind sector via industrial policy strategies and economics (Federal Energy Transition Fund, 2024–2026)
+- **Climate regulation and firms** — Evidence from the European Union emissions trading system (Research Foundation Flanders, 2023–2027)
+- **INTERFLEX** — Unlocking the barriers to accelerate and scale up residential flexibility in Belgium (Federal Energy Transition Fund, 2023–2026)
+- **CROCODILE** — Cross-border Coordination of Offshore Grids under Different Designs for Day-Ahead and Ancillary Service Markets (Federal Energy Transition Fund, 2024–2027)
+
+## Background
+
+I am also a fellow at the Yale Center for Business and the Environment. Previously, I was a senior postdoctoral fellow at the Research Foundation-Flanders (FWO), a postdoctoral researcher at Yale University (School of the Environment) and visiting scholar at Toulouse School of Economics.
+
+I have a PhD in economics, a MSc in economics, and a MSc in Energy Engineering from KU Leuven.
+
+::: {.mo-section-note}
+**Vacancies.** Every year, there are vacancies for PhD students and postdoctoral researchers in my department, possibly under my supervision. These are typically announced in February–March. Please check the UGent department website for updates.
+:::

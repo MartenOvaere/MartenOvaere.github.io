@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Marten Ovaere"
+  site-url: "https://MartenOvaere.github.io/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: mortarboard-fill
+        aria-label: Google Scholar
+        href: "https://scholar.google.com/citations?user="
+      - icon: github
+        aria-label: GitHub
+        href: "https://github.com/MartenOvaere"
+  page-footer:
+    left: "© 2026 Marten Ovaere"
+    right:
+      - text: "Ghent University (UGent)"
+        href: "https://www.ugent.be/"
+      - text: "Department of Economics"
+        href: "https://www.ugent.be/eb/en/research/departments/economics"
+format:
+  html:
+    theme: [cosmo, assets/theme.scss]
+    css: assets/styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    page-layout: full
+
+execute:
+  freeze: auto

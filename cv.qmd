@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+## Curriculum Vitae
+
+- **PDF**: [Curriculum Vitae (Google Drive)](https://drive.google.com)
+
+::: {.mo-section-note}
+Tip: upload your CV to this repo (e.g., `assets/Marten_Ovaere_CV.pdf`) and change the link above to a local file. That way the CV link never breaks.
+:::
