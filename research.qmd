@@ -3,15 +3,11 @@
 - **Market Inefficiencies in Renewable Support Policies: Evidence from Offshore Wind Contracts for Difference in Great Britain** (with Melita Van Steenberghe) — *Revise & resubmit at* *Journal of the Association of Environmental and Resource Economists*. [[working paper](https://ideas.repec.org/p/rug/rugwps/25-1124.html)]  
 - **Mind the Peak: The Role of Peak Demand Charges and Real-Time Pricing in Residential Electricity Flexibility** (with Mark Vergouwen). [[working paper](https://econpapers.repec.org/paper/rugrugwps/25_2f1115.htm)]  
   - Media coverage: [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/publicaties/rapp-2025-11) · [De Standaard](https://www.standaard.be/economie/capaciteitstarief-zet-gezinnen-aan-tot-gespreid-energieverbruik-maar-kleine-verbruikers-betalen-meer/74004416.html) · [De Tijd](https://www.tijd.be/ondernemen/milieu-energie/capaciteitstarief-doet-vooral-eigenaars-van-elektrische-wagen-stroomverbruik-spreiden/10613511.html)
-- **Emission trading and overlapping environmental support: installation-level evidence from the EU ETS** (with Klaas Mulier and Leo Stimpfle). [[working paper](https://www.nbb.be/)]
-- **Product Differentiation through Labels: Evidence from EU Energy Relabeling** (with Justus Böning, Maximilian Kaiser, Alexander Edeling and Siegfried Dewitte). [[working paper](https://papers.ssrn.com/)]
+- **Emission trading and overlapping environmental support: installation-level evidence from the EU ETS** (with Klaas Mulier and Leo Stimpfle). [[working paper](https://www.nbb.be/doc/ts/publications/wp/wp461en.pdf)]
+- **Product Differentiation through Labels: Evidence from EU Energy Relabeling** (with Justus Böning, Maximilian Kaiser, Alexander Edeling and Siegfried Dewitte). [[working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5574878)]
 - **Effects of Rooftop Solar on the Distribution Grid: Evidence from Connecticut** (with Kenneth Gillingham and Xingchi Shen).
-- **Survey evidence on cost-effective residential flexibility contracts for electric vehicles and heat pumps** (with Baptiste Rigaux and Sam Hamels). [[working paper](https://econpapers.repec.org/)]
-- **The Heterogeneous Value of Solar and Wind Energy: Empirical Evidence from the United States and Europe** (with Kenneth Gillingham). [[working paper](https://drive.google.com/)]
-
-::: {.mo-section-note}
-The two “???” working paper links are placeholders because Google Sites truncates the underlying RePEc URLs in a way that isn’t reliably extractable without clicking through each item. Replace them with the exact URLs you prefer (RePEc, SSRN, NBER, etc.).
-:::
+- **Survey evidence on cost-effective residential flexibility contracts for electric vehicles and heat pumps** (with Baptiste Rigaux and Sam Hamels). [[working paper](https://econpapers.repec.org/paper/rugrugwps/25_2f1130.htm)]
+- **The Heterogeneous Value of Solar and Wind Energy: Empirical Evidence from the United States and Europe** (with Kenneth Gillingham). [[working paper](https://drive.google.com/file/d/1QL9MKR66cOfpsMCJq9-yN7X8l5iTaA8-/view?usp=sharing)]
 
 ## Refereed publications
 
