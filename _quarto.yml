@@ -33,7 +33,7 @@ website:
         href: "https://www.ugent.be/eb/en/research/departments/economics"
 format:
   html:
-    theme: [cosmo, assets/theme.scss]
+    theme: cosmo
     css: assets/styles.css
     toc: true
     toc-location: right
