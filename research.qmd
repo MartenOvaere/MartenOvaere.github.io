@@ -20,60 +20,46 @@
 - Media coverage: [De Standaard](https://www.standaard.be/economie/neem-je-best-de-trein-of-het-vliegtuig-voor-die-keuze-speelt-er-meer-dan-alleen-co2-uitstoot/49982860.html)
 5. The Effectiveness of Future Financial Benefits on PV Adoption—Evidence from Belgium (with Justus Böning, Kenneth Bruninx, Guido Pepermans and Erik Delarue).  
    *Energy Economics* (2025, February). [Published version](https://www.sciencedirect.com/science/article/abs/pii/S0140988324008508) · [Accepted version](https://drive.google.com/file/d/1Ffy6S7L1Qgt4bFuFLKy2aR7sukNqCk9E/view?usp=sharing)
-6. **Which combinations of renewable energy policies work better? Insights from policy text synergies in China** (with Xing Hu, Shiwei Yu and Xu Fang).  
-   *Energy Economics* (2023, October). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
-7. **Cost-Efficiency and Quality Regulation of Energy Network Utilities**.  
-   *Energy Economics* (2023, April). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
-8. **The effect of flow-based market coupling on cross-border exchange volumes and price convergence in Central-Western European electricity markets** (with Michiel Kenis, Kenneth Van den Bergh, Kenneth Bruninx, and Erik Delarue).  
-   *Energy Economics* (2023, February). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/) · [Replication files](https://github.com/)
-9. **Electrolytic hydrogen has to show its true colors** (with Kenneth Bruninx and Jorge Moncada).  
-   *Joule* (2022, October). [Published version](https://www.cell.com/joule/) · [Accepted version](https://drive.google.com/)
-10. **Reliability standards and generation adequacy assessments for interconnected electricity systems** (with Nicolas Astier).  
-   *Energy Policy* (2022), 168, 113131. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)  
+6. Which combinations of renewable energy policies work better? Insights from policy text synergies in China (with Xing Hu, Shiwei Yu and Xu Fang). *Energy Economics* (2023, October). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+7. Cost-Efficiency and Quality Regulation of Energy Network Utilities. *Energy Economics* (2023, April). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+8. The effect of flow-based market coupling on cross-border exchange volumes and price convergence in Central-Western European electricity markets (with Michiel Kenis, Kenneth Van den Bergh, Kenneth Bruninx, and Erik Delarue). *Energy Economics* (2023, February). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/) · [Replication files](https://github.com/)
+9. Electrolytic hydrogen has to show its true colors (with Kenneth Bruninx and Jorge Moncada). *Joule* (2022, October). [Published version](https://www.cell.com/joule/) · [Accepted version](https://drive.google.com/)
+10. Reliability standards and generation adequacy assessments for interconnected electricity systems (with Nicolas Astier). *Energy Policy* (2022), 168, 113131. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)  
    - Best Paper Award at 2021 Florence School of Regulation Annual Conference
-11. **Cost-effective reduction of fossil energy use in the European transport sector: An assessment of the Fit for 55 Package** (with Stef Proost).  
-   *Energy Policy* (2022), 168, 113085. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
-12. **COVID-19, Green Deal and recovery plan permanently change emissions and prices in EU ETS Phase IV** (with Kenneth Bruninx).  
-   *Nature Communications* (2022), 13, 1165. [Published version](https://www.nature.com/) · [Replication files](https://github.com/)
-13. **Field Experimental Evidence Shows that Self-Interest Attracts More Sunlight** (with Kenneth Gillingham and Bryan Bollinger).  
-   *Joule* (2020, June). [Published version](https://www.cell.com/joule/) · [PDF](https://drive.google.com/) · [Replication files](https://github.com/)  
+11. Cost-effective reduction of fossil energy use in the European transport sector: An assessment of the Fit for 55 Package (with Stef Proost). *Energy Policy* (2022), 168, 113085. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+12. COVID-19, Green Deal and recovery plan permanently change emissions and prices in EU ETS Phase IV (with Kenneth Bruninx). *Nature Communications* (2022), 13, 1165. [Published version](https://www.nature.com/) · [Replication files](https://github.com/)
+13. Field Experimental Evidence Shows that Self-Interest Attracts More Sunlight (with Kenneth Gillingham and Bryan Bollinger). *Joule* (2020, June). [Published version](https://www.cell.com/joule/) · [PDF](https://drive.google.com/) · [Replication files](https://github.com/)  
    - Media coverage: The Guardian · Bloomberg · Science Daily · NRDC
-14. **The Long-Term Impact of the Market Stability Reserve on the European Emission Trading System** (with Kenneth Bruninx and Erik Delarue).  
-   *Energy Economics* (2020, June). [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
-15. **How Detailed Value of Lost Load Data Impact Power System Reliability Decisions: A Trade-off between Efficiency and Equity** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
-   *Energy Policy* (2019), 132, 1064–1075. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
-16. **A Multi-Dimensional Analysis of Reliability Criteria: From Deterministic N-1 to a Probabilistic Approach** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
-   *Electric Power Systems Research* (2019), 167, 290–300. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
-17. **Fairness and Inequality in Power System Reliability: Summarizing Indices** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
-   *Electric Power Systems Research* (2019), 168, 313–323. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
-18. **Cross-border Exchange and Sharing of Generation Reserve Capacity** (with Fridrik Mar Baldursson, Ewa Lazarczyk and Stef Proost).  
-   *The Energy Journal* (2018), 39(4), 57–83. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)
-19. **Optimal Electricity Transmission Reliability: Going beyond the N-1 Criterion** (with Stef Proost).  
-   *The Energy Journal* (2018), 39(4), 211–234. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)  
+14. The Long-Term Impact of the Market Stability Reserve on the European Emission Trading System (with Kenneth Bruninx and Erik Delarue). *Energy Economics* (2020, June). [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+15. How Detailed Value of Lost Load Data Impact Power System Reliability Decisions: A Trade-off between Efficiency and Equity (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Energy Policy* (2019), 132, 1064–1075. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+16. **A Multi-Dimensional Analysis of Reliability Criteria: From Deterministic N-1 to a Probabilistic Approach** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Electric Power Systems Research* (2019), 167, 290–300. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+17. Fairness and Inequality in Power System Reliability: Summarizing Indices (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Electric Power Systems Research* (2019), 168, 313–323. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+18. Cross-border Exchange and Sharing of Generation Reserve Capacity (with Fridrik Mar Baldursson, Ewa Lazarczyk and Stef Proost). *The Energy Journal* (2018), 39(4), 57–83. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)
+19. Optimal Electricity Transmission Reliability: Going beyond the N-1 Criterion (with Stef Proost). *The Energy Journal* (2018), 39(4), 211–234. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)  
    - Best Student Paper Award at 2016 IAEE International Conference
 
 ## Science communication
 
-- Capaciteitstarief is wel degelijk nuttig instrument (2025) — De Tijd. [Link](https://www.tijd.be/)
-- Vliegen of sporen (2025). [Dutch](https://feb.kuleuven.be/)
-- Heating flexibly with heat pumps (2025). [Dutch](https://www.ugent.be/) · [English](https://www.ugent.be/)  
-  - Media coverage: [De Standaard](https://www.standaard.be/) · [HLN](https://www.hln.be/) · [Livios](https://www.livios.be/)
-- Hoe we de vraag naar elektriciteit beter kunnen doen reageren op variabele hernieuwbare energie (2024). [Dutch](https://www.ugent.be/)  
-  - Media coverage: [De Standaard](https://www.standaard.be/) · [De Morgen](https://www.demorgen.be/)
-- Four recommendations for a stable and sustainable electricity market (2023). [Dutch](https://www.ugent.be/) · [English](https://www.ugent.be/)  
-  - Media coverage: [De Tijd](https://www.tijd.be/) · [De Standaard](https://www.standaard.be/) · [De Morgen](https://www.demorgen.be/) · [HLN](https://www.hln.be/)
-- Interventies nodig voor consument én energietransitie (2022) — De Tijd. [Link](https://www.tijd.be/)
-- Schiet niet op de boodschapper (2022) — De Standaard. [Link](https://www.standaard.be/)
-- Realpolitik is de enige uitweg (2022) — De Standaard. [Link](https://www.standaard.be/)
-- SOS Science, Koolstofarme energie (2022) — kennismakers.be + podcast. [kennismakers.be](https://kennismakers.be/)
-- Zonder gas lukt het niet (2021) — De Standaard. [Link](https://www.standaard.be/)
-- Trek klimaatlessen uit coronacrisis (2021) — De Tijd. [Link](https://www.tijd.be/)
-- Estimating the impact of COVID-19 on emissions and emission allowance prices under EU ETS (2020) — IAEE Energy Forum / Covid-19 Issue. [Link](https://www.iaee.org/)
-- Waarom geen premie voor wie vrijwillig in het donker zit? (2018) — De Standaard. [Link](https://www.standaard.be/)
-- Brengt energiepact eindelijk klaarte? (2017) — De Tijd. [Link](https://www.tijd.be/)
-- Electricity Transmission Reliability Management (2016) — IAEE Energy Forum. [Link](https://www.iaee.org/)
-- Cross-border Exchange and Sharing of Generation Reserve Capacity (2016) — IAEE Energy Forum. [Link](https://www.iaee.org/)
-- Het energiedebat moet narekenbaar worden (2014) — De Tijd. [Link](https://www.tijd.be/)
+- Capaciteitstarief is wel degelijk nuttig instrument (2025) — De Tijd. [Link](https://www.tijd.be/opinie/algemeen/capaciteitstarief-is-wel-degelijk-nuttig-instrument/10635276.html)
+- Vliegen of sporen (2025). [Dutch](https://feb.kuleuven.be/research/LES/pdf/LES2025-223.pdf)
+- Heating flexibly with heat pumps (2025). [Dutch](https://www.ugent.be/eb/economics/en/research/gei/gei18_nl) · [English](https://www.ugent.be/eb/economics/en/research/gei/gei18_eng)  
+  - Media coverage: [De Standaard](https://www.standaard.be/cnt/dmf20250206_95364959) · [HLN](https://www.hln.be/woon/studie-van-ugent-toont-aan-dat-flexibel-verwarmen-met-warmtepomp-de-toekomst-is-nauwelijks-comfortverlies-als-ze-een-aantal-uren-niet-werkte~a2f1eb37/) · [Livios](https://www.livios.be/nl/artikel/100685/hoe-goedkoper-verwarmen-flexibel-verwarmen-met-warmtepompen-is-de-toekomst/)
+- Hoe we de vraag naar elektriciteit beter kunnen doen reageren op variabele hernieuwbare energie (2024). [Dutch](https://www.ugent.be/eb/economics/en/research/gei/gei12)  
+  - Media coverage: [De Standaard](https://www.standaard.be/cnt/dmf20240117_97101267) · [De Morgen](https://www.demorgen.be/beter-leven/met-een-dynamisch-tarief-kan-je-zelfs-geld-krijgen-als-je-elektriciteit-verbruikt-waarom-een-digitale-meter-nuttig-is~b7c03e02/)
+- Four recommendations for a stable and sustainable electricity market (2023). [Dutch](https://www.ugent.be/eb/economics/en/research/gei/gei7) · [English](https://www.ugent.be/eb/economics/en/research/gei/gei7en)  
+  - Media coverage: [De Tijd](https://www.tijd.be/ondernemen/milieu-energie/experts-waarschuwen-voor-te-radicaal-hervormen-stroommarkt/10449587.html) · [De Standaard](https://www.standaard.be/cnt/dmf20230223_98186685) · [De Morgen](https://www.demorgen.be/a-b717f866) · [HLN](https://www.hln.be/energieprijzen/zo-maak-je-je-energiefactuur-lager-en-stabieler-volgens-vlaamse-energie-experts-investeer-zelf-in-je-eigen-energiebedrijf~a717f866/)
+- Interventies nodig voor consument én energietransitie (2022) — De Tijd. [Link](https://www.tijd.be/opinie/algemeen/interventies-nodig-voor-consument-en-energietransitie/10411666.html)
+- Schiet niet op de boodschapper (2022) — De Standaard. [Link](https://www.standaard.be/cnt/dmf20220901_97591025)
+- Realpolitik is de enige uitweg (2022) — De Standaard. [Link](https://www.standaard.be/cnt/dmf20220317_97997081)
+- SOS Science, Koolstofarme energie (2022) — kennismakers.be + podcast. [kennismakers.be](https://kennismakers.be/sos-science-met-marten-ovaere-extended-cut)
+- Zonder gas lukt het niet (2021) — De Standaard. [Link](https://www.standaard.be/cnt/dmf20211005_97618708)
+- Trek klimaatlessen uit coronacrisis (2021) — De Tijd. [Link](https://www.tijd.be/opinie/algemeen/trek-klimaatlessen-uit-coronacrisis/10316819.html)
+- Estimating the impact of COVID-19 on emissions and emission allowance prices under EU ETS (2020) — IAEE Energy Forum / Covid-19 Issue. [Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=881)
+- Waarom geen premie voor wie vrijwillig in het donker zit? (2018) — De Standaard. [Link](http://www.standaard.be/cnt/dmf20180927_03790138)
+- Brengt energiepact eindelijk klaarte? (2017) — De Tijd. [Link](https://www.tijd.be/opinie/algemeen/Brengt-energiepact-eindelijk-klaarte/9938319?)
+- Electricity Transmission Reliability Management (2016) — IAEE Energy Forum. [Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=326)
+- Cross-border Exchange and Sharing of Generation Reserve Capacity (2016) — IAEE Energy Forum. [Link](https://www.iaee.org/en/publications/newsletterdl.aspx?id=352)
+- Het energiedebat moet narekenbaar worden (2014) — De Tijd. [Link](https://www.tijd.be/opinie/analyse/Het-energiedebat-moet-narekenbaar-worden/9502678?)
 
 ## Other publications
 
