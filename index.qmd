@@ -6,6 +6,7 @@ toc: false
 
 ::: {.mo-hero .page-columns}
 ::: {.columns .v-center}
+
 ::: {.column width="68%"}
 
 # Marten Ovaere
@@ -30,7 +31,7 @@ Welcome! I am an assistant professor (docent) at the
 
 <div class="mt-3 mo-small">
 Links:
-<a href="https://drive.google.com">Curriculum Vitae (PDF)</a> ·
+<a href="assets/Marten_Ovaere_CV.pdf">Curriculum Vitae (PDF)</a> ·
 <a href="https://scholar.google.com/citations?user=">Google Scholar</a> ·
 <a href="https://github.com/MartenOvaere">GitHub</a>
 </div>
@@ -39,11 +40,14 @@ Links:
 **Vacancies.** Every year, there are vacancies for PhD students and postdoctoral researchers (typically announced in February–March). Please check the UGent department website for updates.
 :::
 
+:::
+
 ::: {.column width="32%"}
 
-![](assets/profile.jpg){width=240px style="border-radius:16px; margin-top:6px;" fig-alt="Profile photo"}
+![](assets/profile.jpg){width=260px style="border-radius:16px; display:block; margin-left:auto; margin-right:0;" fig-alt="Profile photo"}
 
-::: 
+:::
+
 :::
 :::
 
