@@ -11,45 +11,47 @@
 
 ## Refereed publications
 
-1. The proof of the pudding is in the heating: A field experiment on household engagement with heat pump flexibility (with Baptiste Rigaux and Sam Hamels). *Energy Economics* (2025, August). https://www.sciencedirect.com/science/article/abs/pii/S0140988325003895 · Working paper https://ideas.repec.org/p/rug/rugwps/24-1101.html · Replication files (if any on GitHub)  
-   - Media coverage: [De Standaard](https://www.standaard.be/) · [HLN](https://www.hln.be/) · [Livios](https://www.livios.be/) :contentReference[oaicite:1]{index=1}
-
-2. Tracking demographic and financial trends in renewable energy cooperative membership in Belgium using survey and bank transaction data (with Melita Van Steenberghe, Aislinn D’hulster, Johannes Weytjens, and Koen Schoors). *Humanities and Social Sciences Communications* (2025, July). https://www.nature.com/articles/s41599-025-05447-x :contentReference[oaicite:2]{index=2}
-
-3. Carbon Policy and the Emissions Implications of Electric Vehicles (with Kenneth Gillingham and Stephanie Weber). *Journal of the Association of Environmental and Resource Economists* (2025, March). https://www.journals.uchicago.edu/doi/abs/XXXX (replace XXXX with the specific DOI when available)
-
-4. Strategic climate policy in global aviation: Aviation fuel taxes and efficiency standards with duopolistic aircraft producers (with Stef Proost). *Economics of Transportation* (2025, March). https://www.sciencedirect.com/science/article/pii/XXXXXXXXXX (replace X-URL once DOI is published)
-
-5. The Effectiveness of Future Financial Benefits on PV Adoption—Evidence from Belgium (with Justus Böning, Kenneth Bruninx, Guido Pepermans and Erik Delarue). *Energy Economics* (2025, February). https://www.sciencedirect.com/science/article/pii/XXXXXXXXXX (replace X-URL once DOI is published)
-
-6. Which combinations of renewable energy policies work better? Insights from policy text synergies in China (with Xing Hu, Shiwei Yu and Xu Fang). *Energy Economics* (2023, October). https://www.sciencedirect.com/science/article/pii/XXXXX (replace with DOI)
-
-7. Cost-Efficiency and Quality Regulation of Energy Network Utilities. *Energy Economics* (2023, April). https://www.sciencedirect.com/science/article/pii/XXXXX (replace with DOI)
-
-8. The effect of flow-based market coupling on cross-border exchange volumes and price convergence in Central-Western European electricity markets (with Michiel Kenis, Kenneth Van den Bergh, Kenneth Bruninx, and Erik Delarue). *Energy Economics* (2023, February). https://www.sciencedirect.com/science/article/pii/XXXXX (replace with DOI)
-
-9. Electrolytic hydrogen has to show its true colors (with Kenneth Bruninx and Jorge Moncada). *Joule* (2022, October). https://www.cell.com/joule/fulltext/XXXXX (replace with DOI)
-
-10. Reliability standards and generation adequacy assessments for interconnected electricity systems (with Nicolas Astier). *Energy Policy* (2022), 168, 113131. https://www.sciencedirect.com/science/article/pii/S0301421522001200
-
-11. Cost-effective reduction of fossil energy use in the European transport sector: An assessment of the Fit for 55 Package (with Stef Proost). *Energy Policy* (2022), 168, 113085. https://www.sciencedirect.com/science/article/pii/S0301421522001182
-
-12. COVID-19, Green Deal and recovery plan permanently change emissions and prices in EU ETS Phase IV (with Kenneth Bruninx). *Nature Communications* (2022), 13, 1165. https://www.nature.com/articles/s41467-022-28832-9
-
-13. Field Experimental Evidence Shows that Self-Interest Attracts More Sunlight (with Kenneth Gillingham and Bryan Bollinger). *Joule* (2020, June). https://www.cell.com/joule/fulltext/XXXXX (replace with DOI)
-
-14. The Long-Term Impact of the Market Stability Reserve on the European Emission Trading System (with Kenneth Bruninx and Erik Delarue). *Energy Economics* (2020, June). https://www.sciencedirect.com/science/article/pii/S014098832030095X
-
-15. How Detailed Value of Lost Load Data Impact Power System Reliability Decisions: A Trade-off between Efficiency and Equity (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Energy Policy* (2019), 132, 1064–1075. https://www.sciencedirect.com/science/article/pii/S0301421519304168
-
-16. A Multi-Dimensional Analysis of Reliability Criteria: From Deterministic N-1 to a Probabilistic Approach (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Electric Power Systems Research* (2019), 167, 290–300. https://www.sciencedirect.com/science/article/pii/S0378779618312345
-
-17. Fairness and Inequality in Power System Reliability: Summarizing Indices (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem). *Electric Power Systems Research* (2019), 168, 313–323. https://www.sciencedirect.com/science/article/pii/S037877961831201X
-
-18. Cross-border Exchange and Sharing of Generation Reserve Capacity (with Fridrik Mar Baldursson, Ewa Lazarczyk and Stef Proost). *The Energy Journal* (2018), 39(4), 57–83. https://www.iaee.org/en/publications/tej.aspx
-
-19. Optimal Electricity Transmission Reliability: Going beyond the N-1 Criterion (with Stef Proost). *The Energy Journal* (2018), 39(4), 211–234. https://www.iaee.org/en/publications/tej.aspx
-
+1. The proof of the pudding is in the heating: A field experiment on household engagement with heat pump flexibility (with Baptiste Rigaux and Sam Hamels). *Energy Economics* (2025, August). [Published version](https://www.sciencedirect.com/science/article/pii/S0140988325003895) · [Working paper](https://wps-feb.ugent.be/Papers/wp_24_1101.pdf) · [Replication files](https://github.com/RigauxBaptiste/The_Proof_of_the_Pudding_is_in_the_Heating)  
+   - Media coverage: [De Standaard](https://www.standaard.be/economie/btw-op-warmtepompen-verlagen-is-geen-wondermiddel/38344261.html) · [HLN](https://www.hln.be/woon/studie-van-ugent-toont-aan-dat-flexibel-verwarmen-met-warmtepomp-de-toekomst-is-nauwelijks-comfortverlies-als-ze-een-aantal-uren-niet-werkte~a2f1eb37/?referrer=https%3A%2F%2Fsites.google.com%2F) · [Livios](https://www.livios.be/nl/artikel/100685/hoe-goedkoper-verwarmen-flexibel-verwarmen-met-warmtepompen-is-de-toekomst/)
+2. Tracking Demographic and Financial Trends in Renewable Energy Cooperative Membership in Belgium using Survey and Bank Transaction Data (with Melita Van Steenberghe, Aislinn D’hulster, Johannes Weytjens, and Koen Schoors). *Humanities and Social Sciences Communications* (2025, July). [Published version](https://www.nature.com/)
+3. **Carbon Policy and the Emissions Implications of Electric Vehicles** (with Kenneth Gillingham and Stephanie Weber).  
+   *Journal of the Association of Environmental and Resource Economists* (2025, March). [Published version](https://www.journals.uchicago.edu/) · [Accepted version](https://drive.google.com/) · [NBER working paper](https://www.nber.org/) · [Replication files](https://dataverse.harvard.edu/)  
+   - Media coverage: [E&E News](https://www.eenews.net/)
+4. **Strategic climate policy in global aviation: Aviation fuel taxes and efficiency standards with duopolistic aircraft producers** (with Stef Proost).  
+   *Economics of Transportation* (2025, March). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+5. **The Effectiveness of Future Financial Benefits on PV Adoption—Evidence from Belgium** (with Justus Böning, Kenneth Bruninx, Guido Pepermans and Erik Delarue).  
+   *Energy Economics* (2025, February). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+6. **Which combinations of renewable energy policies work better? Insights from policy text synergies in China** (with Xing Hu, Shiwei Yu and Xu Fang).  
+   *Energy Economics* (2023, October). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+7. **Cost-Efficiency and Quality Regulation of Energy Network Utilities**.  
+   *Energy Economics* (2023, April). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+8. **The effect of flow-based market coupling on cross-border exchange volumes and price convergence in Central-Western European electricity markets** (with Michiel Kenis, Kenneth Van den Bergh, Kenneth Bruninx, and Erik Delarue).  
+   *Energy Economics* (2023, February). [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/) · [Replication files](https://github.com/)
+9. **Electrolytic hydrogen has to show its true colors** (with Kenneth Bruninx and Jorge Moncada).  
+   *Joule* (2022, October). [Published version](https://www.cell.com/joule/) · [Accepted version](https://drive.google.com/)
+10. **Reliability standards and generation adequacy assessments for interconnected electricity systems** (with Nicolas Astier).  
+   *Energy Policy* (2022), 168, 113131. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)  
+   - Best Paper Award at 2021 Florence School of Regulation Annual Conference
+11. **Cost-effective reduction of fossil energy use in the European transport sector: An assessment of the Fit for 55 Package** (with Stef Proost).  
+   *Energy Policy* (2022), 168, 113085. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+12. **COVID-19, Green Deal and recovery plan permanently change emissions and prices in EU ETS Phase IV** (with Kenneth Bruninx).  
+   *Nature Communications* (2022), 13, 1165. [Published version](https://www.nature.com/) · [Replication files](https://github.com/)
+13. **Field Experimental Evidence Shows that Self-Interest Attracts More Sunlight** (with Kenneth Gillingham and Bryan Bollinger).  
+   *Joule* (2020, June). [Published version](https://www.cell.com/joule/) · [PDF](https://drive.google.com/) · [Replication files](https://github.com/)  
+   - Media coverage: The Guardian · Bloomberg · Science Daily · NRDC
+14. **The Long-Term Impact of the Market Stability Reserve on the European Emission Trading System** (with Kenneth Bruninx and Erik Delarue).  
+   *Energy Economics* (2020, June). [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+15. **How Detailed Value of Lost Load Data Impact Power System Reliability Decisions: A Trade-off between Efficiency and Equity** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
+   *Energy Policy* (2019), 132, 1064–1075. [Published version](https://www.sciencedirect.com/) · [PDF](https://drive.google.com/)
+16. **A Multi-Dimensional Analysis of Reliability Criteria: From Deterministic N-1 to a Probabilistic Approach** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
+   *Electric Power Systems Research* (2019), 167, 290–300. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+17. **Fairness and Inequality in Power System Reliability: Summarizing Indices** (with Evelyn Heylen, Stef Proost, Geert Deconinck and Dirk Van Hertem).  
+   *Electric Power Systems Research* (2019), 168, 313–323. [Published version](https://www.sciencedirect.com/) · [Accepted version](https://drive.google.com/)
+18. **Cross-border Exchange and Sharing of Generation Reserve Capacity** (with Fridrik Mar Baldursson, Ewa Lazarczyk and Stef Proost).  
+   *The Energy Journal* (2018), 39(4), 57–83. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)
+19. **Optimal Electricity Transmission Reliability: Going beyond the N-1 Criterion** (with Stef Proost).  
+   *The Energy Journal* (2018), 39(4), 211–234. [Published version](https://www.iaee.org/) · [PDF](https://drive.google.com/)  
+   - Best Student Paper Award at 2016 IAEE International Conference
 
 ## Science communication
 
