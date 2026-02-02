@@ -4,7 +4,7 @@ page-layout: full
 toc: false
 ---
 
-::: {.mo-hero}
+::: {.mo-hero .page-columns}
 ::: {.columns .v-center}
 ::: {.column width="68%"}
 
