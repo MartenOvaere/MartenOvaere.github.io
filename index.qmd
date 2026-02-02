@@ -1,9 +1,12 @@
 ---
+title: "Home"
 page-layout: full
 toc: false
 ---
 
-::: {.mo-hero .page-columns}
+::: {.column-page}
+
+::: {.mo-hero}
 ::: {.columns .v-center}
 
 ::: {.column width="68%"}
@@ -43,10 +46,11 @@ Links:
 
 ::: {.column width="32%"}
 
-![](assets/profile.jpg){width=260px style="border-radius:16px; display:block; margin-left:auto; margin-right:0;" fig-alt="Profile photo"}
+![](assets/profile.jpg){width=260px style="border-radius:16px; display:block; margin-left:auto;" fig-alt="Profile photo"}
 
 :::
 
+:::
 :::
 :::
 
@@ -54,10 +58,10 @@ Links:
 
 My research is currently supported by the following grants:
 
-- **BE-WISE** — Strengthening the competitiveness of the Belgian offshore wind sector via industrial policy strategies and economics (Federal Energy Transition Fund, 2024–2026)
-- **Climate regulation and firms** — Evidence from the European Union emissions trading system (Research Foundation Flanders, 2023–2027)
-- **INTERFLEX** — Unlocking the barriers to accelerate and scale up residential flexibility in Belgium (Federal Energy Transition Fund, 2023–2026)
-- **CROCODILE** — Cross-border Coordination of Offshore Grids under Different Designs for Day-Ahead and Ancillary Service Markets (Federal Energy Transition Fund, 2024–2027)
+- BE-WISE — Strengthening the competitiveness of the Belgian offshore wind sector via industrial policy strategies and economics (Federal Energy Transition Fund, 2024–2026)
+- Climate regulation and firms — Evidence from the European Union emissions trading system (Research Foundation Flanders, 2023–2027)
+- INTERFLEX — Unlocking the barriers to accelerate and scale up residential flexibility in Belgium (Federal Energy Transition Fund, 2023–2026)
+- CROCODILE — Cross-border Coordination of Offshore Grids under Different Designs for Day-Ahead and Ancillary Service Markets (Federal Energy Transition Fund, 2024–2027)
 
 ## Background
 
