@@ -1,7 +1,3 @@
----
-title: "Teaching"
----
-
 ## Current teaching
 
 - **Energy and Climate Policy** (since fall 2024) — Graduate course, Department of Economics, UGent
