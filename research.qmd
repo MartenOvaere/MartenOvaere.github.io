@@ -11,8 +11,7 @@
 
 ## Refereed publications
 
-1. **The proof of the pudding is in the heating: A field experiment on household engagement with heat pump flexibility** (with Baptiste Rigaux and Sam Hamels).  
-   *Energy Economics* (2025, August). [Published version](https://www.sciencedirect.com/) · [Working paper](https://wps-feb.ugent.be/) · [Replication files](https://github.com/)  
+1. **The proof of the pudding is in the heating: A field experiment on household engagement with heat pump flexibility** (with Baptiste Rigaux and Sam Hamels). *Energy Economics* (2025, August). [Published version](https://www.sciencedirect.com/science/article/pii/S0140988325003895) · [Working paper](https://wps-feb.ugent.be/Papers/wp_24_1101.pdf) · [Replication files](https://github.com/RigauxBaptiste/The_Proof_of_the_Pudding_is_in_the_Heating)  
    - Media coverage: [De Standaard](https://www.standaard.be/) · [HLN](https://www.hln.be/) · [Livios](https://www.livios.be/)
 2. **Tracking Demographic and Financial Trends in Renewable Energy Cooperative Membership in Belgium using Survey and Bank Transaction Data** (with Melita Van Steenberghe, Aislinn D’hulster, Johannes Weytjens, and Koen Schoors).  
    *Humanities and Social Sciences Communications* (2025, July). [Published version](https://www.nature.com/)
