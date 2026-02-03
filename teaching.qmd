@@ -4,8 +4,7 @@
 - **Microeconomics** (since fall 2023) — Undergraduate course, Department of Economics, UGent
 - **Environmental Economics and Policy** (since spring 2022) — Graduate course, Department of Economics, UGent
 - **Introduction to Scientific Economic Research** (since spring 2023) — Undergraduate course, Department of Economics, UGent
-- **Financing and Deploying Clean Energy** (since fall 2019) — Online certificate for working professionals, Yale University. [Course page](https://cbey.yale.edu/)
-- **Environmental and Energy Economics Seminar** — External speakers include Nicolas Astier (PSE, 2021), Pei Huang (ZEW, 2022), Charlotte De Cannière (KU Leuven, 2022), Marta Talevi (UCD, 2023), Kenneth Gillingham (Yale, 2024), Paige Weber (UC Berkeley, 2024), Geert Goeyvaerts (KU Leuven, 2024), Justus Böning (KU Leuven, 2024), Emma Menegatti (FSR, 2025), Laurent Franckx (FPB, 2025), Estelle Cantillon (ULB, 2025), Elise Viadere (ULB, 2025), Sébastien Houde (HEC Lausanne, 2025), Matthew Gordon (PSE, 2025).
+- **Financing and Deploying Clean Energy** (since fall 2019) — Online certificate for working professionals, Yale University. [Course page](https://cbey.yale.edu/financing-and-deploying-clean-energy-certificate-program/about-the-certificate)
 
 ## Current doctoral students
 
@@ -23,12 +22,11 @@
 
 ## Past teaching
 
-- Research Methods for Business III (spring 2021–2023) — Undergraduate course, Department of Economics, UGent. [Link](https://studiekiezer.ugent.be/)
-- Guest lecture for Energy Economics and Policy Analysis (Fall 2018–2020) — Graduate course (for Kenneth Gillingham, Yale). [Link](https://environment.yale.edu/)
-- Guest lecture for Science and Sustainability (Spring 2018) — Graduate course, KU Leuven. [Link](https://onderwijsaanbod.kuleuven.be/)
-- Guest lecture for Environmental and Transportation Economics (Autumn 2017) — Graduate course (for Stef Proost, KU Leuven). [Link](https://onderwijsaanbod.kuleuven.be/)
-- Physical Science of Climate Change (Spring 2020–2022) — Graduate course (for Peter Raymond, Yale). [Link](https://environment.yale.edu/)
-- Teaching assistant for Energy Technology and Energy Economy (Spring 2014–2018) — Graduate course, KU Leuven. [Link](https://onderwijsaanbod.kuleuven.be/)
-- Teaching assistant for Energy Economics (Spring 2014–2018) — Graduate course, Department of Engineering, KU Leuven. [Link](https://onderwijsaanbod.kuleuven.be/)
-
-Based on the book *Energy Economics*, ACCO Uitgeverij, 3rd edition (2023), ISBN: 978-9-463-79133-5 (with Stef Proost, Guido Pepermans and Joris Morbee).
+- Research Methods for Business III (spring 2021–2023) — Undergraduate course, Department of Economics, UGent. 
+- Guest lecture for Energy Economics and Policy Analysis (Fall 2018–2020) — Graduate course (for Kenneth Gillingham, Yale). 
+- Guest lecture for Science and Sustainability (Spring 2018) — Graduate course, KU Leuven. 
+- Guest lecture for Environmental and Transportation Economics (Autumn 2017) — Graduate course (for Stef Proost, KU Leuven).
+- Physical Science of Climate Change (Spring 2020–2022) — Graduate course (for Peter Raymond, Yale).
+- Teaching assistant for Energy Technology and Energy Economy (Spring 2014–2018) — Graduate course, KU Leuven.
+- Teaching assistant for Energy Economics (Spring 2014–2018) — Graduate course, Department of Engineering, KU Leuven.
+   - Based on the book [Energy Economics](https://shop.acco.be/en/items/9789464671681/Energy-Economics), ACCO Uitgeverij, 3rd edition (2023), ISBN: 978-9-463-79133-5 (with Stef Proost, Guido Pepermans and Joris Morbee).
