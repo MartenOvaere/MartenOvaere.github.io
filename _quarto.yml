@@ -6,6 +6,7 @@ website:
   title: "Marten Ovaere"
   site-url: "https://martenovaere.github.io/"
   description: "Marten Ovaere — Assistant Professor of Energy Economics at Ghent University. Research on electricity markets, demand flexibility, EVs, heat pumps, grid tariffs, and renewable energy policy."
+
   navbar:
     left:
       - href: index.qmd
@@ -22,6 +23,7 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
+
     right:
       - icon: mortarboard-fill
         aria-label: Google Scholar
@@ -29,6 +31,7 @@ website:
       - icon: github
         aria-label: GitHub
         href: "https://github.com/MartenOvaere"
+
   page-footer:
     left: "© 2026 Marten Ovaere"
     right:
@@ -48,21 +51,11 @@ format:
     anchor-sections: true
     page-layout: full
 
-    # Basic SEO
-    meta:
-      - name: author
-        content: Marten Ovaere
-      - name: keywords
-        content: energy economics, electricity markets, EV charging, heat pumps, demand flexibility, renewables, grid tariffs, offshore wind, market design
-      - name: google-site-verification
-        content: sUhIKrvNXZP5HCuxyE3BriX3LvAVBhMYr9MD43nIPE8
-        
-    # OpenGraph / social previews (LinkedIn, Slack, etc.)
-    metadata:
-      og:title: "Marten Ovaere — Energy Economist"
-      og:description: "Assistant Professor of Energy Economics at Ghent University. Research on electricity markets, EVs, heat pumps, demand flexibility, grid tariffs, and renewable energy policy."
-      og:type: "website"
-      og:url: "https://martenovaere.github.io/"
+    include-in-header:
+      text: |
+        <meta name="author" content="Marten Ovaere" />
+        <meta name="keywords" content="energy economics, electricity markets, EV charging, heat pumps, demand flexibility, renewables, grid tariffs, offshore wind, market design" />
+        <meta name="google-site-verification" content="sUhIKrvNXZP5HCuxyE3BriX3LvAVBhMYr9MD43nIPE8" />
 
 execute:
   freeze: auto
