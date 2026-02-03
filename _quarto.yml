@@ -23,7 +23,6 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-
     right:
       - icon: mortarboard-fill
         aria-label: Google Scholar
@@ -51,11 +50,9 @@ format:
     anchor-sections: true
     page-layout: full
 
+    # Inject meta tags into <head> on every page
     include-in-header:
-      text: |
-        <meta name="author" content="Marten Ovaere" />
-        <meta name="keywords" content="energy economics, electricity markets, EV charging, heat pumps, demand flexibility, renewables, grid tariffs, offshore wind, market design" />
-        <meta name="google-site-verification" content="sUhIKrvNXZP5HCuxyE3BriX3LvAVBhMYr9MD43nIPE8" />
+      - includes/verify.html
 
 execute:
   freeze: auto
