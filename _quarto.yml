@@ -27,6 +27,9 @@ website:
       - icon: mortarboard-fill
         aria-label: Google Scholar
         href: "https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_ID"
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: "https://www.linkedin.com/in/marten-ovaere/"
       - icon: github
         aria-label: GitHub
         href: "https://github.com/MartenOvaere"
