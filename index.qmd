@@ -15,16 +15,14 @@ toc: false
 Assistant Professor (Docent), Department of Economics, Ghent University • Fellow, Yale Center for Business and the Environment
 </span>
 
-I am an assistant professor (docent) of energy economics at the [Department of Economics](https://www.ugent.be/) of Ghent University, working on electricity markets, demand flexibility (electric vehicles and heat pumps), grid tariffs, and renewable energy policy. My research combines high-frequency public and private electricity data, field experiments, and policy evaluation to study how behavior and market design affect the energy transition.
+I am an assistant professor (docent) of energy economics at the [Department of Economics](https://www.ugent.be/) of Ghent University, working on electricity markets, demand flexibility (electric vehicles and heat pumps), grid tariffs, and renewable energy policy. My research combines high-frequency public and private electricity data, field experiments, and policy evaluation to study how behavior, policies and market design affect the energy transition.
 
 <span class="mo-chip">Electricity markets</span>
 <span class="mo-chip">Demand flexibility</span>
 <span class="mo-chip">Electric vehicles & heat pumps</span>
-<span class="mo-chip">Distribution grids</span>
 <span class="mo-chip">Pricing and tariffs</span>
-<span class="mo-chip">Solar</span>
-<span class="mo-chip">Onshore wind</span>
-<span class="mo-chip">Offshore wind</span>
+<span class="mo-chip">Distribution grids</span>
+<span class="mo-chip">Renewables</span>
 <span class="mo-chip">Policy evaluation</span>
 <span class="mo-chip">Energy transition</span>
 
