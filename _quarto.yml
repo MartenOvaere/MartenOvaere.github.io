@@ -55,7 +55,7 @@ format:
       - name: keywords
         content: energy economics, electricity markets, EV charging, heat pumps, demand flexibility, renewables, grid tariffs, offshore wind, market design
       - name: google-site-verification
-        content: <meta name="google-site-verification" content="sUhIKrvNXZP5HCuxyE3BriX3LvAVBhMYr9MD43nIPE8" />
+        content: sUhIKrvNXZP5HCuxyE3BriX3LvAVBhMYr9MD43nIPE8
         
     # OpenGraph / social previews (LinkedIn, Slack, etc.)
     metadata:
