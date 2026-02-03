@@ -16,6 +16,8 @@ website:
         text: Other writing
       - href: teaching.qmd
         text: Teaching
+      - href: seminar.qmd
+        text: Seminar
       - href: cv.qmd
         text: CV
       - href: contact.qmd
