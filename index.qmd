@@ -4,8 +4,6 @@ page-layout: full
 toc: false
 ---
 
-::: {.column-page}
-
 ::: {.mo-hero}
 ::: {.columns .v-center}
 
@@ -38,10 +36,6 @@ Links:
 <a href="https://github.com/MartenOvaere">GitHub</a>
 </div>
 
-::: {.mo-section-note}
-**Vacancies.** Every year, there are vacancies for PhD students and postdoctoral researchers (typically announced in February–March). Please check the UGent department website for updates.
-:::
-
 :::
 
 ::: {.column width="32%"}
@@ -52,6 +46,9 @@ Links:
 
 :::
 :::
+
+::: {.mo-section-note}
+**Vacancies.** Sometimes I have funding to hire PhD students. SIf you are interested and were in the top 5% of your graduating class, feel free to send me an email. Every year, there are vacancies for PhD students and postdoctoral researchers (typically announced in February–March). Please check the UGent department website for updates.
 :::
 
 ## Grants
