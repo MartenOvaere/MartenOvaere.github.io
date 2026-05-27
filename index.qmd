@@ -55,7 +55,7 @@ Links:
 ## Grants
 
 My research is currently supported by the following grants:
-
+- DINEMO - DIstribution NEtwork Management Optimization (Research Foundation Flanders SBO, 2026-2030)
 - BE-WISE — Strengthening the competitiveness of the Belgian offshore wind sector via industrial policy strategies and economics (Federal Energy Transition Fund, 2024–2026)
 - Climate regulation and firms — Evidence from the European Union emissions trading system (Research Foundation Flanders, 2023–2027)
 - INTERFLEX — Unlocking the barriers to accelerate and scale up residential flexibility in Belgium (Federal Energy Transition Fund, 2023–2026)
