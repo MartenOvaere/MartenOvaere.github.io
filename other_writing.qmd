@@ -1,6 +1,5 @@
 ## Science communication
 
-- International competitiveness of offshore wind: Trade flows, tariffs and supply chain dependence [Link](https://www.ugent.be/ps/politiekewetenschappen/gies/en/research/research-projects/be-wise/reports/pdf-files/international-competitiveness-of-offshore-wind.pdf)
 - Capaciteitstarief is wel degelijk nuttig instrument (2025) — De Tijd. [Link](https://www.tijd.be/opinie/algemeen/capaciteitstarief-is-wel-degelijk-nuttig-instrument/10635276.html)
 - Vliegen of sporen (2025). [Dutch](https://feb.kuleuven.be/research/LES/pdf/LES2025-223.pdf)
 - Heating flexibly with heat pumps (2025). [Dutch](https://www.ugent.be/eb/economics/en/research/gei/gei18_nl) · [English](https://www.ugent.be/eb/economics/en/research/gei/gei18_eng)  
@@ -24,7 +23,7 @@
 
 ## Other publications
 
-- International competitiveness of offshore wind: Trade flows, tariffs and supply chain dependence [Link](https://www.ugent.be/ps/politiekewetenschappen/gies/en/research/research-projects/be-wise/reports/pdf-files/international-competitiveness-of-offshore-wind.pdf)
+- International competitiveness of offshore wind: Trade flows, tariffs and supply chain dependence (2026) [Link](https://www.ugent.be/ps/politiekewetenschappen/gies/en/research/research-projects/be-wise/reports/pdf-files/international-competitiveness-of-offshore-wind.pdf)
 - Collective energy sharing: Cost-Benefit Analysis and Survey Evidence of the Willingness to Invest (2023), report prepared for DG Energy. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404024)
 - Energy Economics (book), ACCO Uitgeverij, 3rd edition (2023). ISBN: 9789464671681. [Link](https://shop.acco.be/en/items/9789464671681/Energy-Economics)
 - Network Effects from Electricity Grid Connections: From Traditional Grids to Smart Grids — Proceedings of the CIRED 2021 Conference (2021). [Link](https://digital-library.theiet.org/content/conferences/10.1049/icp.2021.2149)
