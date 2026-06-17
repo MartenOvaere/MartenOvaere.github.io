@@ -4,5 +4,5 @@ title: "CV"
 
 ## Curriculum Vitae
 
-- **PDF**: [Download CV](assets/Marten_Ovaere_CV.pdf)
+- **PDF**: [Download CV](assets/CV_Marten_Ovaere.pdf)
 
