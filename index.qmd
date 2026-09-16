@@ -48,6 +48,12 @@ Links:
 :::
 :::
 
+::: {.mo-announce}
+📅 **[Next in Flex 2026](https://www.energhentic.be/nextinflex2026)** — October 26–27, Ghent<br>
+Policy & Industry Day and academic workshop on the economics of flexible electricity demand.
+[Learn more and register →](https://www.energhentic.be/nextinflex2026){.btn .btn-primary .btn-sm .mt-2}
+:::
+
 ::: {.mo-section-note}
 **Vacancies.** I sometimes have funding to hire PhD students. If you are interested in doing a PhD and were in the top 5% of your graduating class, feel free to send me an email. Every year, there are vacancies for PhD students and postdoctoral researchers at tour department (typically announced in February–March). Please check the UGent department website for updates.
 :::
